@@ -9,7 +9,7 @@ This project focuses on fine-tuning a Hugging Face LLM (such as T5) to summarize
 **Challenge:** Finding an appropriate dataset for fine-tuning a summarization model specialized in archaeology and prehistory.
 
 **Solution:**
-- The **SSN dataset (Semantic Scholar Network)** was selected because it includes research papers across multiple disciplines.
+- The **SSN dataset (Semantic Scholar Network)** https://drive.google.com/file/d/1P5viA8hMm19n-Ia3k9wZyQTEloCk2gMJ/view was selected because it includes research papers across multiple disciplines.
 - While SSN is not explicitly an archaeology dataset, several of its domains align closely with archaeology:
   - **Sociology** – Examines past and present societies.
   - **Geology** – Provides insights into stone, ore types, and stratigraphy.
